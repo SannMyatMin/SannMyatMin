@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer science student😌.
+I'm a computer science student 😌. 
 
 
 # 💻 Tech Stack:
