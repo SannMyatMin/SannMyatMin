@@ -1,4 +1,4 @@
-# About Me 🦊:
+# About Me 👨‍💻:
 I am currently pursuing a degree in Software Engineering, where I have developed a strong understanding of software development principles, problem-solving approaches, and real-world system design.My academic journey has helped me understand how software is built, tested, and maintained across its full lifecycle. I enjoy working on projects that require logical thinking, collaboration, and continuous learning.
 
 
